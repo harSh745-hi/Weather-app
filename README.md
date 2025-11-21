@@ -24,6 +24,6 @@ A simple and responsive web-based Weather Application that provides **real-time 
 
 ## 📎 Live Demo
 
-link : 
+link : https://harsh745-hi.github.io/Weather-app/
 
 Thanks for checking it out! Feel free to share feedback or suggestions.
