@@ -54,11 +54,10 @@ searchTab.addEventListener("click",() => {
 });
 
 
-// check if cordinates  already present in local storage 
+// check if co-ordinates  already present in local storage 
 function getfromSessionStorage() {
     const localCoordinate = sessionStorage.getItem("user-coordinate");
     if(!localCoordinate){
-        // jar local corsinate snaste tr he kraych 
         grantAccessContainer.classList.add("active");
 
     }
