@@ -1,18 +1,29 @@
-# Weather-app
-🚀 Excited to Share My New Project: Weather App! 🌦️
+# 🌦️ Weather App
 
-Hey everyone! I built a Weather App that provides real-time weather updates using the OpenWeather API. 🌍
+A simple and responsive web-based Weather Application that provides **real-time weather updates** for any city using the **OpenWeather API**.
 
-🔹 Features:
+## 🚀 Features
 
- ✅ Search for any city
+* 🔍 Search weather by city name
+* 🌡️ Real-time temperature & conditions
+* 📍 Displays humidity, wind speed, and more
+* 📱 Clean and fully responsive UI
 
- ✅ Real-time weather updates
+## 💻 Tech Stack
 
- ✅ Clean & responsive UI
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **OpenWeather API**
 
-💻 Tech Stack: HTML, CSS, JavaScript, OpenWeather API
+## 🧠 What I Learned
 
-💡 Challenges & Learnings:
+* How to fetch and handle API data in JavaScript
+* Error handling and edge cases (e.g., invalid city input)
+* Improving UI/UX for better user experience
 
- I learned how to work with APIs, handle errors, and improve UI design. Let me know what you think.
+## 📎 Live Demo
+
+link : 
+
+Thanks for checking it out! Feel free to share feedback or suggestions.
